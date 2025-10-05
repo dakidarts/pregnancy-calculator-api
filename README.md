@@ -62,7 +62,7 @@ Welcome to the Pregnancy Calculator API! This API provides endpoints for calcula
 
 ## 🏁 Getting Started
 
-To get started, you need to subscribe to the API on RapidAPI. Visit [Pregnancy Calculator API on RapidAPI](https://rapidapi.com/kidddevs/api/pregnancy-calculator-api) and subscribe to start using the API in your projects.
+To get started, you need to subscribe to the API on RapidAPI. Visit [Pregnancy Calculator API on RapidAPI](https://rapidapi.com/dakidarts-dakidarts-default/api/pregnancy-calculator-api) and subscribe to start using the API in your projects.
 
 ## ⚡️ Usage Examples
 
